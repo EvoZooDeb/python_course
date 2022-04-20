@@ -384,7 +384,7 @@ Eurytop # xerophil
 H: auf lehmigen Böden; vor allem auf sonnigen und trockenen Waldwegen; in
 lichten Wäldern; Hohlwege; Steinbrüche; Sand-und Kiesgruben
 
-01#.001#.004#. gallica Brülle a: W-M
+01#.001#.004#. gallica Brullé a: W-M
 Stenotop
 H: alpine Steppen; Ränder von Schneefeldern
 
@@ -397,17 +397,17 @@ Wälder
 Stenotop # psammophil # ripicol
 H: Sand-und Grobschotterbänke an Flüssen und Bächen; Krummseggen-Wiesen
 
-01#.001#.006#. m aritim a Dej. 1: Nord-und Ostsee und Hamburg
+01#.001#.006#. maritim Dej. 1: Nord-und Ostsee und Hamburg
 Stenotop # psammophil # halotolerant # ripicol
 H: feinsandige spärlich bewachsene Strände und Küstendünen; bis 100 km land­
 einwärts an sandigen salzfreien Ufern der Elbe
 
-01#.001#.007#. cam pestris L. g
+01#.001#.007#. campestris L. g
 Eurytop # xerophil
 H: lichte trockene Wälder; sonnige Waldwege; Heide; nackte Torfböden; trok-
 kene Wiesen; Trockenhänge; sandige Felder; Sandgruben; sandige Küsten
 
-01#.001#.008#. germ anica L. nicht a
+01#.001#.008#. germanica L. nicht a
 Eurytop - xerophil
 H: trockene Äcker (oft abgeerntete Getreidefelder); grasige trockene Ruderalflä-
 chen; Steppen; Heide; Kalktriften; trockene Waldränder
@@ -424,13 +424,13 @@ H: Sandbänke an Flußufern; Binnenwellsandflächen
 Stenotop # psammophil
 H: feinsandige spärlich bewachsene Küstendünen
 
-01#.001#.0111 . nemoralis Ol. SO
+01#.001#.0111#. nemoralis Ol. SO
 Stenotop # psammophil # halotolerant # ripicol
 H: Sandbänke an Flüssen; sandig-schlammige Ufer an Seen
 
 01#.001#.012#. fischeri Adams          SO
 
-01#.002#.000#. Calosom a Web.
+01#.002#.000#. Calosoma Web.
 
 01#.002#.001#. inquisitor L. g
 Eurytop # silvicol # arboricol
@@ -445,7 +445,7 @@ Ni: auf Gebüsch und Bäumen
 Na: Raupen und Puppen von Schmetterlingen (vor allem Thaumetopoeidae) und
 Blattwespen
 
-01#.002#.003#. investigator 111.   NO
+01#.002#.003#. investigator ill.   NO
 Eurytop # silvicol # arboricol
 H: Wälder
 Ni: auf Bäumen
@@ -1539,9 +1539,10 @@ Ni: in Moos; unter Laub
 Eurytop # hygrophil # silvicol # humicol
 H: obere Waldregion; Grünerlenzone
 Ni: in der Laubstreu
+
 01#.0211.000#. Lasiotrechus Ganglb.
 
-01#.0211.001#. d iscu sF . g
+01#.0211.001#. discus F. g
 Eurytop # hygrophil # ripicol#. terricol
 H: schlammige Bach- und Flußufer; lehmige nasse Flußauen # 1: Meeresdeiche
 Ni: unter tief eingebetteten Steinen; in Genist; in Gängen von Kleinsäugern
@@ -1664,12 +1665,13 @@ H: Höhlen
 *01#.024#.009#. putzi Fischh.   N-Steiermark
 Stenotop # troglobiont
 H: Höhlen
+
 *01#.0241.000#. Trichaphaenops Jeann.
 
 *01#.0241.001. -b sollaudi Jeann. ssp. sermeti Jeann.
 Kanton Waadt
 Stenotop # troglobiont
-H . Grotten
+H: Grotten
 Ni: an feuchten Höhlenwänden
 
 *01#.0241.001#. c ssp. helveticus Jeann.         Kanton Jura
@@ -1680,7 +1682,8 @@ Ni: an feuchten Höhlenwänden
 *01#.0241.001#. d ssp. jurassicus Serm.         Kanton Neuchâtel
 Stenotop # troglobiont
 H: Grotten
-01#.025#.000#. A nophthalm us Sturm
+
+01#.025#.000#. Anophthalmus Sturm
 
 01#.025#.001#. a gobanzi Ganglb.          a: Kärnten
 Eurytop # troglophil # silvicol
@@ -2121,7 +2124,7 @@ Stenotop # hygrophil # ripicol
 H: an sumpfigen Quellen und Bächen
 Ni: unter Laub; in Genist
 
-01#.029#.069#. stom oides Dej. . m : S-Z
+01#.029#.069#. stomoides Dej.  m: S-Z
 Stenotop # hygrophil # ripicol
 H: an feinsandigen und sandig-schlammigen beschatteten Bächen (meist etwas
 abseits vom Ufer)
@@ -2311,7 +2314,7 @@ Ni: unter Algen und Detritus
 
 *01#.029#.105#. neresheimeri Müll.     SO
 
-*01#.0291 . 000#. Cillenus Sam.
+*01#.0291#.000#. Cillenus Sam.
 
 01#.0291#.001#. lateralis Sam. 1: Nordsee und untere Elbe (gezeitenabhängig)
 Stenotop # halotolerant # ripicol
@@ -2319,7 +2322,7 @@ H: an Brackwasser; sandige Spülsäume der Küsten; Ufer von Flußmündung
 Ni: unter Tang
 Na: verfolgt im Porenlufthorizont Diglotta mersa
 
-*01#.0292.000#. Ocys Steph.
+*01#.0292#.000#. Ocys Steph.
 
 01#.0292.001#. harpaloides Serv. nicht O
 Stenotop # hygrophil # ripicol # oft corticol oder subterran
@@ -2408,7 +2411,7 @@ Ni: in Genist
 
 01#.032#.002#. assimilis Chaud. N -O -SO und N-Alpen
 Stenotop # tyrphophil
-H . Moore; Waldsümpfe # Hamburg: an verlandetem Teich auf Moränenschutt #
+H: Moore; Waldsümpfe # Hamburg: an verlandetem Teich auf Moränenschutt #
 Tirol: sumpfige Matte
 Ni: unter Laub und Detritus; in Sphagnum und faulenden Vegetabilien
 
@@ -2678,7 +2681,7 @@ Ni: unter Grasbüscheln und Stroh
 
 01#.041#.030#. affinis Schrk. g
 Eurytop # heliophil # xerophil # campicol
-H . trockene Äcker und Ödland; Ufer; Trocken- und Halbtrockenrasen; Dünen;
+H: trockene Äcker und Ödland; Ufer; Trocken- und Halbtrockenrasen; Dünen;
 Steinbrüche; Ziegeleien; Kiesgruben; Waldränder; Lichtungen; Gärten
 Ni: unter Grasbüscheln, Laub, faulenden Vegetabilien; in Genist
 Na: auch Laub- und Nadelholzsamen
@@ -4231,14 +4234,12 @@ Ni: unter Detritus und faulenden Vegetabilien; in Genist
 
 01#.065#.056#. crenata Dej. SO -Z
 Eurytop # thermophil
-H: Binnenlandsalzstellen; trockene Flußufer, Wiesen und Felder - S: Wärmehän-
-ge, .      .
+H: Binnenlandsalzstellen; trockene Flußufer, Wiesen und Felder # S: Wärmehänge
 Ni: in Detritus und Genist
 
 01#.065#.057#. aulica Panz. g
 Eurytop # schwach hygrophil
 H: trockene bis mäßig feuchte Wiesen, Flußauen, Ruderalflächen, Feldraine,
-
 Hecken, Gärten und Waldränder; Küstendünen; Trockenhänge; Trockenrasen;
 Weinberge
 Ni: unter faulenden Vegetabilien; in Genist; auf Kompositen (vor allem Cirsium),
@@ -4251,7 +4252,7 @@ H: Talauen; Flußauen
 01#.065#.058#. convexiuscula Marsh. 1: N -O und Z-SO
 Eurytop # halotolerant
 H: 1: an Brackwasser; Küstendünen # Binnenlandsalzstellen; Salzwiesen #
-N -Z -SO: sandige Flußufer und Ruderalflachen; Tongruben; auf Trümmerschutt
+N-Z-SO: sandige Flußufer und Ruderalflachen; Tongruben; auf Trümmerschutt
 Ni: unter Grasbüscheln, Genist und Tang; auf Salicorniern
 
 01#.065#.059#. alpestris Villa     a-ha: Kärnten
@@ -4287,7 +4288,6 @@ Ni: unter Detritus und Pflanzenwurzeln
 
 01#.066#.003#. velutinus Dft.      SW: Elsaß, Rheinland
 Stenotop # hygrophil # ripicol
-
 H: Flußufer
 Ni: unter Pflanzenwurzeln; in Genist
 
@@ -4389,7 +4389,7 @@ H: Kalktriften; Steppenheide; sandige Waldränder und Ruderalflächen
 Eurytop # xerophil
 H: Dünen; sandige Küsten; sandige Felder und Flußufer; Ziegeleien; Trocken­
 hänge; trockene lichte Wälder
--Ni: in Detritus
+Ni: in Detritus
 
 01#.069#.005#. cassideus F. nicht N
 Stenotop # thermophil
@@ -4431,9 +4431,7 @@ Ni: unter Laub, Moos, Phragmites- und Carex-Detritus und loser Rinde; in Genist
 
 01#.070#.006#. dorsiger Dft. SO -Z-N
 Stenotop # hygrophil # silvicol # paludicol
-
-H: sumpfig-moorige Wälder; sumpfige Ufer von Waldtümpeln, -weihern und
-Flüssen
+H: sumpfig-moorige Wälder; sumpfige Ufer von Waldtümpeln, -weihern und Flüssen
 Ni: unter Laub, Moos und Detritus
 
 01#.070#.007#. dilatatus Chaud. nicht NW
@@ -4481,7 +4479,7 @@ Ni: unter Moos, Blattrosetten von Hieracium und in Calluna-Detritus
 
 01#.074#.000#. Lebia Latr.
 
-01#.074#.001#. chlorocephala Hoffm . g
+01#.074#.001#. chlorocephala Hoffm. g
 Eurytop # xerophil # herbicol
 H: Heide; Trockenhänge; Sandgruben; Steinbrüche; trockene Waldränder;
 Wiesen
@@ -4648,6 +4646,7 @@ Stenotop # silvicol # corticol
 H: Kiefernwälder; Heide; Parks
 Ni: unter Rinde (vor allem von Pinus), Waldstreu und Moos; auf Gebüsch und
 Bäumen
+
 01#.079#.010#. fenestratus F. g
 Eurytop # silvicol # corticol
 H: Wälder; Waldränder
@@ -4673,8 +4672,6 @@ Ni: unter Rinde, Stammoos und Reisig
 
 01#.079#.015#. quadrisignatus Dej. SO-S-SW
 Stenotop # corticol
-H: Flußauen
-Ni: unter Rinde, Stammoos, Laub und Reisig
 H: Flußauen
 Ni: unter Rinde, Stammoos, Laub und Reisig
 
@@ -5017,7 +5014,7 @@ H: M oortümpel; laubreiche stehende Waldgewässer
 
 04#.003#.004#. grossepunctatus Vorbr.           g
 Stenotop # tyrphobiont # sphagnicol
-H . Moortümpel; Torfstiche
+H: Moortümpel; Torfstiche
 Ni: in Sphagnum
 
 04#.003#.005#. nasutus Shp. SO
@@ -5386,7 +5383,7 @@ H: Quellen; Bäche; Resttümpel neben Bächen; Gletschertümpel
 Stenotop # rheophil
 H: Bäche; Seen
 
-04#.017#.003#. sanm arki Sahib . m # a: S # Z
+04#.017#.003#. sanmarki Sahlb. m # a: S # Z
 Stenotop # rheophil
 H: Quellen; Mittellauf von Bächen
 
@@ -5460,7 +5457,7 @@ Ni: in Sphagnum
 Stenotop # krenophil # rheophil # silvicol
 H: Waldquellen und -bäche
 
-04#.023#.0061 . nitidus F.   besonders m; nicht N
+04#.023#.0061#. nitidus F.   besonders m; nicht N
 Stenotop # rheophil
 H: sandige Bäche
 
@@ -5671,7 +5668,7 @@ H: Moorgewässer
 Stenotop # tyrphophil
 H: Moorgewässer
 
-*04#.0271 . 000#. M aladema Cast.
+*04#.0271#.000#. Maladema Cast.
 
 04#.0271.001#. coriacea Cast.         Elsaß
 Stenotop
@@ -5891,7 +5888,7 @@ u. dergl. fest.
 Alle Hydraeniden leben phytophag; nur ausnahmsweise können sie auch tierische
 Nahrung aufnehmen.
 
-07#.001#.000#. H ydraena Kug.
+07#.001#.000#. Hydraena Kug.
 
 07#.001#.001#. palustris Er. g
 Eurytop
@@ -5959,7 +5956,7 @@ Stenotop # rheophil
 H: schottrige Bäche und Flüsse
 Ni: in Bachmoos
 
-07#.001#.015#. ru gosaM u ls.         SW
+07#.001#.015#. rugosa Muls.         SW
 
 07#.001#.016#. testacea Curt. nicht a
 Eurytop
@@ -5969,15 +5966,15 @@ Quellen
 07#.001#.017#. atrata Desbr.           SW
 H: Spülsaum von Bächen
 
-*07#.001#.0171 . paganetti Ganglb.     SO-Österreich
+*07#.001#.0171#. paganetti Ganglb.     SO-Österreich
 Stenotop # rheophil
 H: Spülsaum von Bächen
 
 07#.001#.018#. lapidicola Kiesw.             m # a: S
 Stenotop # rheophil
-H . Bäche
+H: Bäche
 
-07#.001#.019#. gracilis Germ, besonders m
+07#.001#.019#. gracilis Germ. besonders m
 Stenotop # rheophil
 H: Quellen; sandig-schottrige Bäche und Flüsse
 Ni: unter Detritus; in Genist
@@ -5986,7 +5983,7 @@ Ni: unter Detritus; in Genist
 Stenotop # rheophil
 H: Bäche
 
-07#.001#.021#. bélgica d’Orch. m: S # Z
+07#.001#.021#. belgica d’Orch. m: S # Z
 Stenotop # rheophil
 H: sandig-schottrige Bäche und Flüsse
 Ni: unter Detritus; in Genist
@@ -6397,7 +6394,7 @@ Moorgewässer # 1: Brackwasser
 
 09#.0011.023#. asperatus Rey nicht NO
 Stenotop # azidophil # silvicol
-FI: laubreiche Waldgewässer; Moorgewässer
+H: laubreiche Waldgewässer; Moorgewässer
 Ni: in Detritus
 
 09#.0011.024#. dorsalis Marsh, nicht NO
@@ -6426,7 +6423,7 @@ Eurytop
 H: vegetationsreiche Altwässer, Gräben und Ziegeleitümpel #1: Brackwassertüm­
 pel
 
-*09#.0011 . 0281.    param inutus Angus    SO-Österreich und Hamburg
+*09#.0011#.0281.    param inutus Angus    SO-Österreich und Hamburg
 
 09#.0011.029#. discrepans Rey          SO
 
@@ -6444,13 +6441,12 @@ nenland-Salzstellen
 
 09#.0012.001#. orbiculare F. g
 Stenotop # hygrophil # paludicol
-H: Sümpfe; Moore; sumpfige oder schlammige Ufer von Tümpeln und Teichen #
-1: Spülsäume
+H: Sümpfe; Moore; sumpfige oder schlammige Ufer von Tümpeln und Teichen # 1: Spülsäume
 Ni: in nassem Detritus, Moos und Genist
 
-*09#.0013 . 000.    Dactylosternum Woll.
+*09#.0013#.000.    Dactylosternum Woll.
 
-*09#.0013.001#. abdominale F.       Oberrhein, Hamburg
+*09#.0013#.001#. abdominale F.       Oberrhein, Hamburg
 Stenotop
 H: Gärten
 Ni: in Kom post
@@ -7400,7 +7396,7 @@ Waldwiesen
 Ni: in K ot (vor allem von Schaf und Rind); an A as; in faulenden Vegetabilien (auch
 in Pilzen); in K om post; an ausfließendem Baumsaft
 
-10#.029#.006#. carbonarius Hoffm . g
+10#.029#.006#. carbonarius Hoffm. g
 Ubiquist # saprophil # phytodetriticol
 Ni: in K ot und Stallmisthaufen; in faulenden Vegetabilien (auch in Pilzen); in
 Rübenmieten; an ausfließendem Baumsaft; unter Detritus und Genist; in Tier­
@@ -7435,7 +7431,7 @@ H: Wärmegebiete; Felder; Wälder
 Ni: an Aas und K ot; an Fischresten; in Kom post und faulenden Vegetabilien; in
 Rübenmieten; in Hühnerställen
 
-10#.029#.011#. m erdarius Hoffm . g
+10#.029#.011#. m erdarius Hoffm. g
 Eurytop # nidicol
 H: Laubwälder; Gärten; Hecken an Feldrainen
 Ni: vor allem in Nestern von Höhlenbrütern in hohlen Bäumen; in feuchtem
@@ -7870,7 +7866,7 @@ lien, Baummulm und Scheunenstroh; unter Reisig
 
 14#.001#.004#. sericatus Chaud. g
 Ubiquist # necrophil # microcavernicol # oft phytodetriticol
-Ni: in Bauen und Gängen von Kleinsäugern ( Mus, Microtus, Talpa u. a . ); in mor­
+Ni: in Bauen und Gängen von Kleinsäugern ( Mus, Microtus, Talpa u. a. ); in mor­
 schem H olz und Mulm; im Stroh von Feldscheunen; in Höhleneingängen; an
 Gewölle
 
@@ -8478,7 +8474,7 @@ Ni: auch unter Steinen; an Graswurzeln; in Genist
 
 16#.003#.004#. rotun data Er. nicht N
 Stenotop # xerophil # mycetophil # pholeophil
-H . trockene Flußauen ; sandige lichte Wälder # S: sandige Flußufer # Z: Bachufer
+H: trockene Flußauen ; sandige lichte Wälder # S: sandige Flußufer # Z: Bachufer
 Ni: auch unter Steinen; an Graswurzeln; in Genist
 
 16#.003#.005#. rubiginosa Schm, g
@@ -12596,7 +12592,7 @@ Stenotop # hygrophil # phytodetriticol
 H: Sümpfe; sumpfige Ufer; feuchte Wiesen # 1: Spülsäume
 Ni: unter Laub, abgestorbenem Gras und Genist; in Phragmites-Detritus
 
-*23#.055#.2681.    josefkrali Hrom .   SO
+*23#.055#.2681.    josefkrali Hrom.   SO
 
 23#.055#.069#. latifrons Er. nicht a
 Stenotop # hygrophil # paludicol # phytodetriticol
@@ -13144,7 +13140,7 @@ Ni: oft in unterirdischen Nestern und Gängen von Mus, Talpa u. a. ; unterSteine
 Laub und Moos; in Stroh und Spreu von Scheunen und Mieten; in Ameisenne­
 stern; im Eingang von Grotten
 
-23#.062#.007#. rufiventris Nordm . SO und Baden
+23#.062#.007#. rufiventris Nordm. SO und Baden
 Stenotop # xerophil # silvicol # xylodetriticol
 H: trockene Wälder; Parks; Moore
 Ni: in morschem H olz von Stubben (Pinus) und Stämmen (Fagus); in rotfaulen
@@ -13212,7 +13208,7 @@ H: Gärten; Felder # S: Wälder
 Ni: in Kompost- und Stallmisthaufen; in faulenden Vegetabilien; in Wildfutter­
 resten; unter Steinen und Laub
 
-23#.064#.002#. obsoletus Nordm . nicht a und NW
+23#.064#.002#. obsoletus Nordm. nicht a und NW
 Eurytop # hygrophil # paludicol # phytodetriticol
 H: Waldsümpfe; Erlenbrüche; sumpfige Ufer; Moorwiesen; feuchte Flußauen
 
@@ -13368,7 +13364,7 @@ Ni: unter Steinen; zwischen Schotter; in Genist
 
 23#.068#.007#. zetterstedti Rye     Ostpreußen
 
-23#.068#.008#. scutellare Nordm . SO bis Bayern und Preußen
+23#.068#.008#. scutellare Nordm. SO bis Bayern und Preußen
 Stenotop # hygrophil # ripicol # phytodetriticol
 H: Fluß- und Seeufer
 Ni: in Detritus und Genist
@@ -13465,7 +13461,7 @@ in Stroh- und Heuhaufen; in Talpa-Nestern
 
 23#.068#.022#. elegantulum Kr.       SO-Österreich
 Stenotop # hygrophil
-H . Flußauen
+H: Flußauen
 
 23#.068#.023#. brunnipes F. nicht a
 Eurytop # hygrophil # phytodetriticol
@@ -13480,7 +13476,7 @@ H: sumpfige Waldränder und Wälder; Erlenbrüche; sumpfige Ufer und Wiesen
 Ni: unter Laub und Moos; in Detritus (Carex, Phragmites) und Genist; in Spha­
 gnum
 
-23#.068#.025#. spadiceum Er. . m: SO # S # Z
+23#.068#.025#. spadiceum Er. m: SO # S # Z
 Stenotop # pholeophil # ripicol
 H: Ufer von Bächen, Flüssen und Seen
 Ni: im Sand, zwischen Schotter und unter Steinen; in Genist
@@ -13506,7 +13502,7 @@ Kom post; in 7W/>tf-Nestern und Bauen von Cricetus
 Stenotop # hygrophil
 H: Flußufer
 
-23#.068#.030#. pallidum Nordm . nicht a und wNW
+23#.068#.030#. pallidum Nordm. nicht a und wNW
 Eurytop # pholeophil # humicol # phytodetriticol
 
 H: Felder; Wiesen; Trockenhänge; Sand- und Kiesgruben; Gärten; Wälder
@@ -13553,7 +13549,7 @@ Ni: unter feuchtem Sand und Kies; unter Steinen
 
 23#.070#.000#. Scim balium Er.
 
-23#.070#.001#. anale Nordm . SO
+23#.070#.001#. anale Nordm. SO
 Stenotop # hygrophil # ripicol # phytodetriticol
 H: Fluß- und Seeufer; sumpfige Teichufer
 Ni: unter Steinen; in Detritus und Genist
@@ -13810,7 +13806,7 @@ Ni: unter Laub; an faulenden Pilzen; in Detritus von Phragmites
 
 *23#.0801.000#. H ypnogyra Casey
 
-23#.0801.001#. glaber Nordm . nicht nNW
+23#.0801.001#. glaber Nordm. nicht nNW
 Eurytop # xylodetriticol # corticol
 H: Laubwälder; Waldränder; Parks; Hecken; Flußauen # Thüringen: Fichten­
 wald
@@ -14078,7 +14074,7 @@ wälder; Trockenhänge
 Ni: vor allem in K ot (Pferd, Schaf, Mensch); an A as; in Kompost- und Stallmist­
 haufen; in Stroh an Feldscheunen und Mieten; an faulenden Pilzen; in Tierbauen
 
-23#.088#.017#. caucasicus Nordm . O bis Hannover, Hamburg, Rheinland
+23#.088#.017#. caucasicus Nordm. O bis Hannover, Hamburg, Rheinland
 Stenotop # meist synanthrop # phytodetriticol
 H: vor allem Gärten und Schuttplätze; Feldraine
 Ni: vor allem in faulendem Unkraut und Kartoffelkraut; in Kom post- und Stall­
@@ -14299,7 +14295,7 @@ Komposthaufen; in Rübenmieten; unter Laub und Moos; in Genist
 
 23#.088#.048#. intrudens Totth.       Mähren
 
-23#.088#.049#. puella Nordm . NW und m: Z # S
+23#.088#.049#. puella Nordm. NW und m: Z # S
 Eurytop # hygrophil # vielfach silvicol # phytodetriticol
 H: N : vor allem Gärten; Ruderalflächen; Ufer # W # S: vor allem Wälder
 Ni: in faulenden Vegetabilien (auch in Pilzen); in K ot; in Kompost- und Stallmist­
@@ -14457,7 +14453,7 @@ Böschungen in Ziegeleien; Sandgruben; Feldraine; Feldwege
 Ni: vor allem im Genist; auf Sand und zwischen Schotter; unter Steinen und Gras­
 büscheln; in faulenden Vegetabilien
 
-23#.0881.002#. pullus Nordm . nicht N
+23#.0881.002#. pullus Nordm. nicht N
 Stenotop # hygrophil # ripicol # humicol
 H: sandige Ufer von Bächen, Flüssen und Seen; feuchte Stellen in Ziegeleien
 Ni: unter Steinen; zwischen Pflanzen auf feuchtem Sand # suba: in feuchtem
@@ -14492,7 +14488,7 @@ H: Ufer von Bächen, Flüssen und Seen; Sümpfe; feuchte Wälder # Württemberg:
 Wärmehang # Österreich: auch trockener Eichenwald
 Ni: unter Moos, Laub und Reisig; in faulenden Vegetabilien
 
-23#.090#.003#. exiguus Nordm . besonders m, N nur N-Hannover
+23#.090#.003#. exiguus Nordm. besonders m, N nur N-Hannover
 Eurytop # hygrophil # phytodetriticol
 H: Ufer; Sümpfe; feuchte Felder und Waldränder
 Ni: unter Laub, Moos und Grasbüscheln; in Genist; in faulenden Vegetabilien und
@@ -14535,7 +14531,7 @@ Eurytop # silvicol # corticol # xylodetriticol
 H: Wälder
 Ni: unter morscher Laubholzrinde; in Moos und Mulm
 
-23#.090#.011#. trossulus Nordm . g
+23#.090#.011#. trossulus Nordm. g
 Eurytop # hygrophil # paludicol # phytodetriticol
 H: Sümpfe; Erlenbrüche; Ufer von Waldtümpeln; Moore; sumpfige Ufer
 Ni: in Detritus (Phragmites u. a. ) und Genist; unter nassem Laub und Moos; in
@@ -14815,7 +14811,7 @@ Ni: unter Steinen, Holzstücken, loser Rinde, Laub und Moos; an faulenden Pilzen
 Eurytop # silvicol
 H: Wälder
 
-23#.099#.009#. megacephalus Nordm . m-suba: SO-Alpen
+23#.099#.009#. megacephalus Nordm. m-suba: SO-Alpen
 Eurytop # silvicol # humicol
 H: Wälder; Hecken; schattige Matten; Hochstaudenfluren; Zwergstrauch-Region
 Ni: unter Steinen
@@ -14907,7 +14903,7 @@ land: auch Erlenbruch # Holstein: auch Calluna-Heide # 1: Spülsäume; Dünen
 Ni: unter Steinen, Laub und Moos; in faulendem H olz von Stubben; in Kompost-
 und Heuhaufen
 
-23#.099#.021#. falcifer Nordm . SO-Österreich
+23#.099#.021#. falcifer Nordm. SO-Österreich
 Stenotop # humicol # phytodetriticol
 
 23#.099#.022#. m inax Muls. Rey       Elsaß
@@ -15081,7 +15077,7 @@ Ni: vor allem in Nestern von Vespidae und Bombus auch im Mulm hohler Bäume
 bei Höhlenbrütern und in Schwämmen in Baumhöhlen # Rheinland: auch bei
 Ameisen # O : auch in Mäusenestern
 
-23#.104#.012#. assimilis Nordm . nicht m und a
+23#.104#.012#. assimilis Nordm. nicht m und a
 Eurytop # vor allem synanthrop # phyto- und xylodetriticol
 H: Keller; Schuppen; Ställe; Gärten; Felder; Waldränder
 Ni: in faulendem Stroh und Heu, vor allem, wenn sich darunter Ratten- oder Mäu­
@@ -16533,7 +16529,7 @@ noch ungeklärt (zoophag oder Sporenfresser).
 
 23. .130#.001#. nitidula Gyll. SO
 Stenotop # silvicol # mycetobiont # agaricol
-H . Laubwälder (Querem, Fagus)
+H: Laubwälder (Querem, Fagus)
 Ni: an großen Blätterpilzen
 
 23#.130#.002#. pulchella Heer g
@@ -16869,7 +16865,7 @@ Ainus), die von Ipiden befallen ist; an Baumschwämmen
 
 23#.141#.004#. fum ida Er. g
 Eurytop # silvicol # corticol
-H . Wälder; Gehölze; Parks
+H: Wälder; Gehölze; Parks
 Ni: unter morscher verpilzter Rinde mit Ipidenbefall; unter Stammoos und
 Flechten; in Baumschwämmen
 
@@ -16975,7 +16971,7 @@ Stenotop # hygrophil # pholeophil # silvicol # muscicol
 H: Waldränder; Schluchtwälder
 Ni: im Moos an Stämmen (vor allem Acer) und Stubben; im Moos unter Schnee
 
-23#.141#.0231. b ssp. wolfrum i Lohse m: Thüringen, Rhön und S-Hannover
+23#.141#.0231. b ssp. wolfrumi Lohse m: Thüringen, Rhön und S-Hannover
 Stenotop # hygrophil # silvicol # pholeophil # muscicol
 H: Wälder
 Ni: in Stammoos (Fagus); in Moos auf Gesteinstrümmern
@@ -17202,7 +17198,7 @@ Ni: in Baumschwämmen (Fomes u. a. )
 Eurytop # mycetophil # silvicol # agaricol # phytodetriticol
 H: Wälder; Waldränder; Gärten; Flußauen
 Ni: vor allem in meso- bis holosaproben Blätterpilzen (Boletus, Lactarius, Armil-
-laria, Hypholoma u. a . ), seltener in Porlingen (Polyporus, Trametes u. a . ); in ver-
+laria, Hypholoma u. a. ), seltener in Porlingen (Polyporus, Trametes u. a. ); in ver-
 pilztem Laub, Heu und Kom post; an Aas
 
 23#.148#.0011.     brevicornis Blair    Belgien
@@ -17970,7 +17966,7 @@ Ni: im Humus
 
 *23#.180#.009#. infirm a Weise m: O-Karpaten; O-Slowakei
 Stenotop # hygrophil # silvicol # humicol
-H . Wälder
+H: Wälder
 Ni: in Grasbüscheln und feuchtem Moos
 
 *23#.180#.010#. ruthena Roub. m-suba: O-Karpaten
@@ -18166,7 +18162,7 @@ Wälder
 Ni: auf feuchtem Lehm und Schlamm; in Laub und Moos; in Detritus und Genist;
 unter Tang; auch an Aas
 
-*23#.188#.0041 .   balcanensis Likov.   SO
+*23#.188#.0041#.   balcanensis Likov.   SO
 
 23#.188#.005#. a hygrobia Thoms. Böhmen, Sachsen, Tirol, Baden, Rhein­
 land, Holstein
@@ -18711,7 +18707,7 @@ Ni: an Fledermauskot (Chiroptera); in faulenden Vegetabilien
 
 23#.188#.119#. hansseni Strand SO bis Mittelelbe, Rheinland, Niedersachsen
 Eurytop # fungicol # phytodetriticol
-H . Laubwälder; Matten
+H: Laubwälder; Matten
 Ni: in faulenden Pilzen; an Aas; in Gras
 
 23#.188#.120#. subglabra Shp. N nur N-Hannover, Hamburg, Holstein,
@@ -19027,7 +19023,7 @@ H: Nadel- und Mischwälder
 Ni: vor allem in mehr oder weniger faulendem grünem Fichtenreisig; in N adel­
 streu; selten bei Ameisen, an Saftfluß und in Pilzen
 
-23#.188#.187#. n idicolajoh . nicht NO
+23#.188#.187#. n idicolajoh. nicht NO
 Eurytop # vor allem silvicol # nidicol
 H: Wälder; Ortschaften
 Ni: vor allem in Nestern größerer Vögel und bei Eichhörnchen (Sciurus vulgaris)
@@ -19262,7 +19258,7 @@ H: vor allem Waldsümpfe und Erlenbrüche; Ufer sumpfiger Auwaldtümpel; sum­
 pfige Stellen in Flußauen; schattige Ufer an Ziegeleitümpeln
 Ni: in nassem Laub, Moos und Detritus
 
-*23#.1882 . 000#. A crotona Thoms.
+*23#.1882#.000#. A crotona Thoms.
 
 23#.1882.001#. exigua Er.    g
 Eurytop # psammophil # phytodetriticol
@@ -20549,6 +20545,7 @@ Ni: in den Nestern von Formica uralensis
 Eurytop # silvicol # myrmecophil
 H: Wälder; Waldränder; Flußauen
 Ni: in hohlen Bäumen und in Stubben bei Lasius fuliginosus
+
 23#.232#.000#. Eurym niusa Ganglb.
 
 23#.232#.001#. crassa Epph. SO bis Brandenburg, Mecklenburg
@@ -20556,6 +20553,7 @@ Stenotop # hygrophil # paludicol # humicol
 H: Sümpfe; Moore # Österreich: auch feuchte Flußauen
 Ni: in Moos und Flechten an vermulmter Rinde und an alten Stubben; in
 moderndem Laub; in Wurzeln von Grasbüscheln; in Sphagnum
+
 23#.233#.000#. C rataraea Thoms.
 
 23#.233#.001#. suturalis Mannh. g
@@ -20614,7 +20612,6 @@ Ni: in schimmelndem Laub in hohler Buche (Fagus silvatica)
 
 23#.235#.001#. m orion Grav. g
 Ubiquist # phyto- und zoodetriticol
-
 Ni: oft in mehr oder weniger trockenem Kot und Aas; in faulenden Vegetabilien
 (auch in Pilzen); in Kompost-, Heu- und Stallmisthaufen; in moderndem Stroh
 von Scheunen, Ställen und Mieten; in Laub, Moos und Detritus; manchmal auf
