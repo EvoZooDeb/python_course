@@ -1243,7 +1243,7 @@ H: in Waldschluchten; Höhlen
 *01—.022—.010—. szabói Csiki         suba: slowakisches Erzgebirge
 01—.023—.000—. O rotrechus Müll.
 01—.023—.001—. lucensis Scheib,            suba: Karawanken
-Steno top — pholeophil
+Stenotop — pholeophil
 H: Höhlen
 01—.023—.002—. carinthiacus Mandl                suba: Kärnten
 Stenotop — pholeophil
@@ -2230,7 +2230,7 @@ Stenotop — psammophil
 H: Dünen; Heide
 Ni: in Detritus
 01—.041—.067—. taciturnus Dej.              Niederösterreich
-Stenotop?
+Stenotop
 H: Flußauen
 01—.041—.068—. serripes Quens. g
 Eurytop — xerophil
@@ -2747,7 +2747,7 @@ H: feucht-kühle Wälder
 Ni: unter Laub
 Na: Aas
 01—.053—.006—. b carinatus Dft. ssp. porcatus Dft.   m: S-Z, nicht W
-Eurytop? — hygrophil — silvicol
+Eurytop — hygrophil — silvicol
 H: feuchte Wälder und Flußauen
 Ni: unter Laub, M oos und loser Rinde; in Genist
 01—.053—.007—. b schüppeli Pall. ssp. rendschmidti Germ,    m: SO
@@ -3085,7 +3085,7 @@ Stenotop — hygrophil — halotolerant
 H: Meeresküsten; an Brackwassertümpeln; Salzsümpfe; Flußufer; feuchte Wiesen
 Ni: in Detritus und Genist
 01—.065—.004—. kulti Fass.    SW
-Stenotop?
+Stenotop
 H: Flußufer; Heide
 01—.065—.005—. fulvipes Serv. W-S-SO
 Eurytop — xerophil
@@ -3158,7 +3158,7 @@ Ni: unter Moos, Grasbüscheln, Stroh und Detritus; in Genist; auf Gräsern
 Stenotop
 H: Matten; Felsenheide
 01—.065—.020—. proxim a Putz.    SO und Pfalz
-Stenotop?
+Stenotop
 H: SO: Weizenfelder
 01—.065—.021—. aenea Deg. g
 Eurytop — heliophil — xerophil
@@ -3268,7 +3268,7 @@ sandige Wiesen
 01—.065—.043—. sollicita Pantel     Südslowakei
 01—.065—.0431.   croatica Ganglb.    Niederösterreich
 01—.065—.044—. m ontana Dej.      S-Alpen
-Steno top? — xerophil
+Stenotop — xerophil
 H: trockene Orte
 01—.065—.050—. cuniculina Dej. a-ha: SO-Alpen
 Stenotop — xerophil
@@ -3376,7 +3376,7 @@ Stenotop — hygrophil
 H: schlammige Küsten; sumpfige Ufer und Wiesen
 Ni: in Genist
 01—.066—.011—. quadrisulcatus Payk.    O -SO und Hamburg
-Stenotop? — hygrophil — ripicol
+Stenotop — hygrophil — ripicol
 H: Ufer
 Ni: unter M oos; in Genist
 01—.066—.012—. costulatus Motsch.      N O -O und Hamburg
@@ -3558,7 +3558,7 @@ Ni: unter M oos und Detritus
 Stenotop — xerophil
 H: Wärmehänge; sandige Kiefernwälder
 01—.078—.005—. coadunata Dej. m: SO
-Eurytop?
+Eurytop
 H: obere Waldregion; Matten; Kalkfelsen
 01—.078—.007—. scapularis Schaum     SO
 Stenotop — xerophil
@@ -3665,7 +3665,7 @@ Ni: unter Grasbüscheln, Laub, Detritus, Stroh, Heu und faulenden Vegetabilien;
 auf Gräsern
 01—.080—.000—. Syntom us Hope
 01—.080—.001—. obscuroguttatus Dft. nicht W
-Stenotop?
+Stenotop
 H: Sumpfwiesen; Ufer sumpfiger Gräben; feuchte Flußauen; trockene Wälder
 Ni: unter Laub, M oos und Rinde; in Genist
 01—.080—.002—. foveatus Fourcr. nicht W-Alpen
@@ -4122,7 +4122,7 @@ Eurytop — subhalophil
 H: Z: Moorgewässer — S: Tümpel auf Überschwemmungswiesen — SO: Schilf­
 gürtel an Salzsee
 04—.011—.004—. varius Aubé        SO
-Stenotop?
+Stenotop
 H: Quellen; Teiche
 04—.011—.005—. pictus F. g
 Eurytop
@@ -6414,7 +6414,7 @@ H: Höhlen
 Stenotop — troglobiont
 H: Höhlen; Stollen
 *14—.020—.0011. pannonicus Schweig.          Niederösterreich
-Stenotop? — pholeophil
+Stenotop — pholeophil
 H: Garten
 Ni: in N est von Rattus rattus
 15—.000—.000—. C O L O N ID A E
@@ -14265,7 +14265,7 @@ Eurytop — hygrophil - phytodetriticol
 H: feuchte Wälder und Wiesen; Bruchwälder
 Ni: in Laub, M oos und Grasbüscheln; in Detritus
 23—.188—.010—. botildae Brund. Hamburg
-Steno top — hygrophil — paludicol
+Stenotop — hygrophil — paludicol
 H: Waldsumpf
 23—.188—.011—. tmolosensis Bernh. SO bis Mittelelbe, Brandenburg
 Stenotop — hygrophil - phytodetriticol

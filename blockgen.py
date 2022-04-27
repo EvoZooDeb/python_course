@@ -28,10 +28,26 @@ def blocks(f):
     if blocklines:
         yield clean(blocklines)
 
-def digest(block):
+def line2digest(info):
 
-    # Eurytop|Stenotop|Ubiquist|Synanthrop|Coprophil|eurytop|Kaltstenotop
+    # Eurytop|Stenotop|Ubiquist|Synanthrop|Coprophil|eurytop|Kaltstenotop|Mycetophil
     # "":  xxx - xxx - xxx REGEXP: '^([a-zA-Z]+ — )+[a-zA-Z]+$'
+
+    line2 = info[''].strip()
+    firstword, _ = line2.split(' ', 1) if ' ' in line2 else (line2, '')
+    if firstword.lower() in [ 'eurytop', 'stenotop', 'ubiquist', 'synanthrop', 'coprophil', 'kaltstenotop', 'mycetophil' ]:
+        return
+
+    found = re.search(r' (eurytop|stenotop|ubiquist|synanthrop|coprophil|kaltstenotop|mycetophil) [—-] ', line2.lower())
+    #found = re.search(r' ([a-zA-Z]+ [—-] )+[a-zA-Z]+$', line2)
+    if found and found.start() > 0:
+        info['spname'] += line2[:found.start()]
+        info[''      ]  = line2[found.start():]
+    else:
+        info['spname'] += line2
+        info[''      ]  = ''
+
+def digest(block):
 
     info        = {}
     firstline   = True
@@ -57,14 +73,17 @@ def digest(block):
                 info[label] = ''
             info[label] += ' '+line
 
-    found = re.search(r' ([a-zA-Z]+ [—-] )+[a-zA-Z]+$', info[''])
-    if found:
-      print(found.start(), info[''])
-    #print(json.dumps(info, indent=2, ensure_ascii=False))
-    #print('')
+    line2digest(info)
 
+    for key in info.keys():
+        info[key] = info[key].strip()
+        if key in [ 'H:', 'Na:', 'Ni:' ]:
+            _, info[key] = info[key].split(' ', 1)
+
+    return info
+
+dataset = []
 for block in blocks(sys.stdin):
-#    for i in block:
-#        print(i)
-#    print('')
-    digest(block)
+    dataset.append(digest(block))
+
+print(json.dumps(dataset, ensure_ascii=False, indent=2))
